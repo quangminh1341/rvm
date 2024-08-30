@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Đang chơi Việt Nam Roleplay"];
+const statusMessages = ["Bot by Alymee"];
 
 
 let currentIndex = 0;
